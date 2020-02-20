@@ -1,1 +1,109 @@
-<mxfile type="github" version="12.7.2" host="www.draw.io" modified="2020-02-20T13:37:31.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="kp5KVITGdI0PnOC1wp8b"><diagram id="-fIMQOGLffLqjaEyj9TA" name="Page-1">7Vxbb6M4GP01kXYfWgUINHmcpO3saltt1Y60s08jF5xgLWBknCbpr18bbC5xJiEBGqZxLxL+bH++HR/yHbsdWLNw/ZWA2H/EHgwG5nBBkDewbgemabBfZvDWWdI0RxNh2WSWm4mZGXidF/QORb2hsC6RB5OKL4pxQFFcNbo4iqBLKzZACF5Vi81xUO1YDBZQMby4IFCt/yCP+pl1bN4U9j8gWviyZcMR4wuBLCxGkvjAw6uSybobWDOCMc2ewvUMBnzy5NRl9e5/kpt3jMCI1qlwC8Inc/UDwcC5gubXeTL+O7gSXt5AsBQDjiFJMI5U77IoJBSuK6aEbuR0JSsUBiBiqekcR/RF5AxZ2vVR4D2ADV5yhwkF7n8yNfUxQe+sPAhYlsEMLJtQgQbT4d5QEMxwgEnajgWH/LtS84V7FG0RmLC6T7L3xpbpEawrBR9AQmUvcRCAOEGvab95xRCQBYqmmFIcikJylPfVTs3TL5YPArSImM1lbUEi5yIbjTFi6Xz52b6BOISUbDheBVYXuYnPrl+G10iAaVVg0ZgIm9xiY5EWG8ycVHDBHgQ0joCJqcDkT4/XYbOr4GQvzvaDxwcxf2TeKALBM9vPIFrw3CnFsZj7AM7lWhExMfz5Va6PUZr/rOyUt4rYlv4izCHyvNRrGVQRTlGbxMBF0eIha8UaFaZn0Ro3YeZyHqS72WfOYMR7gymg4DXHe4zZ9KQrak/ZD1uE2fDaHthspDOWNoo0++HFCZ3hKKEEoHQqIQPlCnJgTj2C428MhlCOtry3jC18mQ3wZe2Bl4ST0xhNloKmp79q4sjsAkev5b29AxN14VTFTmvQOYQOPsw9OMjfjaKByuunOT6s5uwyUvDwhjGJAAhTK3F9QH4zbfv33pHN8DA6Ume/ONO0wCyCNvYxi92cWWwFSTUhM+oCMg15JUPO5yeVHdBogVQcBQrA9dmnMU0rF0YrY7Mxlm5OpRWnC8hoWjkjrUhdooQF6i9RAjwWSv5AfY2KNKPU/ohrHmQUYzhujiNVebmvGwTlGNS0coYQSMVHG7SixkAFraiw0FpcD7Q457AW51hbzNEGVNQg59jXTifRjlbjeFt2m6+iD1HjDDVSqi3H5Vjs05tI63FNEaHGO/xdFC3DkDHoabHzx1GO/qjbL03OGJ8aPec47BO7XMrn3I7C54kCBj5QQDWtXBKttKDJmaoQUxc0ky5Ao2nljLRiqmrKAoaQh3yaWC6JWNqQ5iSRHM8sNXUZzSy/ELOol1VinFAXe5pZLotZrFFzMKkqb11msbpAjWaWMzKLXeeyirrG0FtAKTayYohunmEAKMLRXZGjTIlPQynnw8j7wi9Gs+Tdc7bOzMTlc7EOzCvZfC8n/uWJa1smb9flzNuNSKXnBIXrd0jwN/wIoo3ME22knVgj+r30XGqBpYoGeEL6z6aCj786N3hJXLiPccVGppI5flrQPhUhxnCHVCttJF2ft3KvRRtPOBXt8wayoQhr6Rghvw0vuGjkbF313naUDVV1ZG05shwVx/nAG0BblZRhCBCvpw+0+nugZewAsTzkEotytfVWtEYtEKEqNx95oGV3cs9GH2jxtro+0HKqgGrhQMtWBefaB1p2HyVnfaDVFBGq6nz6NdAPJBsdwDUJ4LaYpYWjLOdkzdnWmvNni9+cHcpQ9reTx14D1YzSQ0aRx9Z7GKWFUyxHVYRqXwN1tCZ0Pk7ZAY82OOXkP2DSHNJHDjkc70iVqBFqVLmlLoX08f7exVBIJ7GOo8Y6Khg+vax8PRw6g7K0PB5PBvvEZZ54ggSxteKiWiPBWb6YDwrO5unQ6VRvzl1Jvdk+UW/eFq4t+0i9mSWL/5CSFS/+z4x19z8=</diagram></mxfile>
+<mxfile type="github" version="12.7.2" host="www.draw.io" modified="2020-02-20T14:59:35.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="x6_-tAVDfW0IjtVGKYxN">
+  <diagram id="-fIMQOGLffLqjaEyj9TA" name="Page-1">
+    <mxGraphModel grid="1" dx="2249" dy="792" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-1" value="persoon" parent="1" vertex="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;">
+          <mxGeometry as="geometry" height="140" width="190" x="280" y="290" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-2" value="Id int" parent="DamP2w_iel6-e2Gfs8Ol-1" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=1;fontSize=12;">
+          <mxGeometry as="geometry" height="30" width="190" y="26" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-3" value="PK" parent="DamP2w_iel6-e2Gfs8Ol-2" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="30" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-4" value="voornaam varchar(255)" parent="DamP2w_iel6-e2Gfs8Ol-1" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="26" width="190" y="56" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-5" value="" parent="DamP2w_iel6-e2Gfs8Ol-4" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="26" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-6" value="achternaam varchar(255)" parent="DamP2w_iel6-e2Gfs8Ol-1" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="26" width="190" y="82" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-7" value="" parent="DamP2w_iel6-e2Gfs8Ol-6" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="26" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-10" value="thuisadres_id int" parent="DamP2w_iel6-e2Gfs8Ol-1" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="32" width="190" y="108" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-11" value="FK" parent="DamP2w_iel6-e2Gfs8Ol-10" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="32" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-14" value="thuisadres" parent="1" vertex="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;">
+          <mxGeometry as="geometry" height="160" width="190" x="630" y="130" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-15" value="id int" parent="DamP2w_iel6-e2Gfs8Ol-14" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;fontSize=12;">
+          <mxGeometry as="geometry" height="30" width="190" y="26" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-16" value="PK" parent="DamP2w_iel6-e2Gfs8Ol-15" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="30" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-17" value="huisnummer varchar(255)" parent="DamP2w_iel6-e2Gfs8Ol-14" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="26" width="190" y="56" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-18" value="" parent="DamP2w_iel6-e2Gfs8Ol-17" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="26" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-19" value="straat varchar(255)" parent="DamP2w_iel6-e2Gfs8Ol-14" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="26" width="190" y="82" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-20" value="" parent="DamP2w_iel6-e2Gfs8Ol-19" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="26" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-21" value="gemeente varchar(255)" parent="DamP2w_iel6-e2Gfs8Ol-14" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="26" width="190" y="108" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-22" value="" parent="DamP2w_iel6-e2Gfs8Ol-21" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="26" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-23" value="postcode varchar(255)" parent="DamP2w_iel6-e2Gfs8Ol-14" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="26" width="190" y="134" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-24" value="" parent="DamP2w_iel6-e2Gfs8Ol-23" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="26" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-55" value="" parent="1" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="DamP2w_iel6-e2Gfs8Ol-10" target="DamP2w_iel6-e2Gfs8Ol-15">
+          <mxGeometry as="geometry" height="100" width="100" relative="1">
+            <mxPoint as="sourcePoint" x="210" y="460" />
+            <mxPoint as="targetPoint" x="310" y="360" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-56" value="email adres" parent="1" vertex="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;">
+          <mxGeometry as="geometry" height="110" width="160" x="-90" y="340" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-57" value="id int" parent="DamP2w_iel6-e2Gfs8Ol-56" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;fontSize=12;">
+          <mxGeometry as="geometry" height="30" width="160" y="26" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-58" value="PK" parent="DamP2w_iel6-e2Gfs8Ol-57" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="30" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-59" value="naam varchar(255)" parent="DamP2w_iel6-e2Gfs8Ol-56" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="26" width="160" y="56" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-60" value="" parent="DamP2w_iel6-e2Gfs8Ol-59" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="26" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-63" value="persoon_id int" parent="DamP2w_iel6-e2Gfs8Ol-56" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="18" width="160" y="82" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-64" value="FK" parent="DamP2w_iel6-e2Gfs8Ol-63" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="18" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-65" value="" parent="DamP2w_iel6-e2Gfs8Ol-56" vertex="1" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;">
+          <mxGeometry as="geometry" height="10" width="160" y="100" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-66" value="" parent="DamP2w_iel6-e2Gfs8Ol-65" vertex="1" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" connectable="0">
+          <mxGeometry as="geometry" height="10" width="30" />
+        </mxCell>
+        <mxCell id="DamP2w_iel6-e2Gfs8Ol-69" value="" parent="1" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=1;exitX=1.006;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="DamP2w_iel6-e2Gfs8Ol-63" target="DamP2w_iel6-e2Gfs8Ol-2">
+          <mxGeometry as="geometry" height="100" width="100" relative="1">
+            <mxPoint as="sourcePoint" x="100" y="450" />
+            <mxPoint as="targetPoint" x="210" y="350" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
